@@ -1,6 +1,6 @@
 # Hi there, I'm Harshit 👋 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=Computer+Science+Student;Java+%26+Backend+Developer;Building+Cool+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=Computer+Science+Student;Java+%26+Backend+Developer;Debugging+Life+One+Line+at+a+Time" alt="Typing SVG" />
 
 ### 🛠 Languages & Backend
 <p>
@@ -27,11 +27,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitbuildsss&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbuildsss&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbuildsss&theme=tokyonight" />
 </p>
 
 ### 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Harshit_14310" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Harshit_14310&theme=dark" />
 </p>
