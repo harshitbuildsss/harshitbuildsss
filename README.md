@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://textoverimage.moesif.com/image?image_url=https%3A%2F%2Fraw.githubusercontent.com%2Fbe-bold%2Fbe-bold.github.io%2Fmain%2Fassets%2Fimg%2Fdefault%2Fblack_background.webp&text=Hi%2C%20I'm%20Harshit%20—%20my%20code%20runs%20on%20luck%20and%20coffee%20👋&text_color=FFFFFF&text_size=32&y_offset=45&text_shadow_color=000000&text_shadow_offset=4&font_family=Arial-Bold" alt="Static Bold Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Harshit+%E2%80%94+my+code+runs+on+luck+and+coffee+%F0%9F%91%8B&duration=1" alt="Header Banner" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=Computer+Science+Student;Java+%26+Backend+Developer;Debugging+Life+One+Line+at+a+Time" alt="Typing SVG" />
