@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/harshitbuildsss">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b79fe5&fontSize=54&height=90&width=826&text=Hey%20there%2C%20I'm%20Harshit." alt="Hey there, I&#39;m Harshit." />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Hey%20there,%20I'm%20Harshit.&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Building%20software...%20mostly%20taming%20compiler%20errors.&descAlignY=62&descAlign=50" alt="Hey there, I'm Harshit." />
   </a>
 </p>
 
