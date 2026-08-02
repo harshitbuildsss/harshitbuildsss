@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/harshitbuildsss">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Hey%20there,%20I'm%20Harshit.&fontSize=42&fontColor=ffffff&fontAlignY=50&animation=twinkling" alt="Hey there, I'm Harshit." />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=180&section=header&text=Hey%20there,%20I'm%20Harshit.&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Building%20software...%20mostly%20taming%20compiler%20errors.&descAlignY=62&descAlign=50" alt="Hey there, I'm Harshit." />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=745&height=44&lines=Shipping%20features%2C%20breaking%20nothing%20(hopefully);~%20Code%20running%20on%20pure%20luck%20and%20coffee%E2%98%95" alt="Typing headlines" />
 </p>
