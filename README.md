@@ -39,8 +39,7 @@ Trying my best to keep up with evolving tech before my current stack becomes anc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=harshitbuildsss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshitbuildsss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=harshitbuildsss&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ### 🧩 LeetCode Stats
