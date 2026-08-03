@@ -39,7 +39,7 @@ Trying my best to keep up with evolving tech before my current stack becomes anc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesforce.vercel.app/?user=harshitbuildsss&theme=tokyonight&hide_border=true" alt="Harshit's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitbuildsss&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshit's GitHub Stats" />
 </p>
 
 ### 🧩 LeetCode Stats
