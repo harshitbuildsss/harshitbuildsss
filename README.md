@@ -35,9 +35,11 @@ Trying my best to keep up with evolving tech before my current stack becomes anc
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbuildsss&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitbuildsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" />
 </p>
 
 ### 🧩 LeetCode Stats
